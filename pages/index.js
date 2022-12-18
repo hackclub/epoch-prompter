@@ -430,7 +430,7 @@ let options = {
 
 export default function Index() {
   const [stage, setStage] = useState(0)
-  const [prompt, setPrompt] = useState(`Begin Epoch's prompt:`)
+  const [prompt, setPrompt] = useState(`Begin Epoch's Prompt:`)
   function processVote(word) {
     if (stage == 0) {
       setPrompt(word)
