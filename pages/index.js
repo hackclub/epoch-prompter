@@ -420,9 +420,9 @@ let options = {
       },
       Without: {
         Colour: null,
-        "A Sense": null,
-        Sleep: null,
-        Murder: null
+        "Sanity": null,
+        "Documentation": null,
+        "WiFi": null
       }
     },
   }
