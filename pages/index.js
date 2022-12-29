@@ -458,7 +458,7 @@ export default function Index() {
       <Flex
         sx={{
           bg: stage!= 4 ? `rgba(255, 71, 148, ${stage * 0.25})` : "#FF4794",
-          fontSize: stage != 4 ? '96px' : '172px',
+          fontSize: stage != 4 ? '96px' : '144px',
           lineHeight: stage != 4 ? null : 1,
           borderRadius: 5,
           textAlign: 'center',
@@ -482,7 +482,7 @@ export default function Index() {
             <Flex
               sx={{
                 bg: color,
-                fontSize: '96px',
+                fontSize: '72px',
                 borderRadius: 5,
                 textAlign: 'center',
                 fontWeight: 800,
