@@ -122,7 +122,7 @@ let options = {
         Combust: null,
         Entertain: null
       },
-      Nobody: {
+      Everybody: {
         Wants: null,
         Needs: null,
         Hates: null,
@@ -148,7 +148,7 @@ let options = {
         "Unlock...": null,
         Entertain: null
       },
-      Nobody: {
+      Everybody: {
         Enjoys: null,
         Takes: null,
         Hates: null,
@@ -174,7 +174,7 @@ let options = {
         "Unlock...": null,
         Entertain: null
       },
-      Nobody: {
+      Everybody: {
         Enjoys: null,
         Takes: null,
         Hates: null,
@@ -200,7 +200,7 @@ let options = {
         Combust: null,
         Entertain: null
       },
-      Nobody: {
+      Everybody: {
         Wants: null,
         Needs: null,
         Hates: null,
@@ -386,7 +386,7 @@ let options = {
         Combust: null,
         Entertain: null
       },
-      Nobody: {
+      Everybody: {
         Wants: null,
         Needs: null,
         Hates: null,
@@ -412,7 +412,7 @@ let options = {
         Combust: null,
         Entertain: null
       },
-      Nobody: {
+      Everybody: {
         Wants: null,
         Needs: null,
         Hates: null,
@@ -428,7 +428,7 @@ let options = {
   }
 }
 
-let ex = "Stupid Shit Nobody Needs"
+let ex = "Stupid Shit Everybody Needs"
 
 export default function Index() {
   const [stage, setStage] = useState(0)
