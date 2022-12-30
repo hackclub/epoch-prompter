@@ -215,7 +215,7 @@ let options = {
     },
   },
   Stupid: {
-    Art: {
+    Gizmos: {
       For: {
         Monkeys: null,
         Elephants: null,
@@ -228,11 +228,11 @@ let options = {
         Eats: null,
         Dabs: null
       },
-      With: {
-        Monkeys: null,
-        Elephants: null,
-        Chickens: null,
-        Humans: null
+      Everybody: {
+        Wants: null,
+        Needs: null,
+        Hates: null,
+        Loves: null
       },
       Without: {
         Colour: null,
@@ -254,11 +254,11 @@ let options = {
         Eats: null,
         Dabs: null
       },
-      With: {
-        Monkeys: null,
-        Elephants: null,
-        Chickens: null,
-        Humans: null
+      Everybody: {
+        Wants: null,
+        Needs: null,
+        Hates: null,
+        Loves: null
       },
       Without: {
         Colour: null,
@@ -267,7 +267,7 @@ let options = {
         Humans: null
       }
     },
-    Games: {
+    Shit: {
       For: {
         Monkeys: null,
         Elephants: null,
@@ -280,11 +280,11 @@ let options = {
         Eats: null,
         Dabs: null
       },
-      With: {
-        Monkeys: null,
-        Elephants: null,
-        Chickens: null,
-        Humans: null
+      Everybody: {
+        Wants: null,
+        Needs: null,
+        Hates: null,
+        Loves: null
       },
       Without: {
         Colour: null,
@@ -306,11 +306,11 @@ let options = {
         Eats: null,
         Dabs: null
       },
-      With: {
-        Monkeys: null,
-        Elephants: null,
-        Chickens: null,
-        Humans: null
+      Everybody: {
+        Wants: null,
+        Needs: null,
+        Hates: null,
+        Loves: null
       },
       Without: {
         Colour: null,
